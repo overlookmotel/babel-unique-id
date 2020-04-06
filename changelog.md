@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.2
+
+Docs:
+
+* Fix anchor links
+
 ## 0.1.1
 
 Bug fixes:
