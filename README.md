@@ -63,7 +63,7 @@ IDs are a hash of a combination of 4 elements:
 
 The root of the application/package is determined by searching up the file tree for a `package.json` file. `package.json` files without a `name` property are ignored (due to how they are used for [NodeJS ESM modules](https://nodejs.org/dist/latest-v12.x/docs/api/esm.html#esm_package_json_type_field)).
 
-The root path can alternatively be set manually with the [`rootPath` option](#root-path).
+The root path can alternatively be set manually with the [`rootPath` option](#rootpath).
 
 If the root of the app/package is found, the path of the file being processed *relative* to the root is used. Windows-style path separators (`\`) are converted to POSIX-style (`/`). This should ensure that for the same code base, IDs are deterministic regardless of path where the app/package repo is installed, and what platform it's running on.
 
@@ -119,7 +119,7 @@ If `packageName` is provided, `packageVersion` must be too, and vica-versa.
 
 Intended to be set by user.
 
-See [`packageName`](#package-name).
+See [`packageName`](#packagename).
 
 #### `isPackage`
 
