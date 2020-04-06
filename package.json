@@ -1,6 +1,6 @@
 {
   "name": "babel-unique-id",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility for Babel plugins to create unique IDs",
   "main": "index.js",
   "author": {
