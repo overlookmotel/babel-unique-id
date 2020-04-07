@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.4
+
+Docs:
+
+* Fix missing changelog entry
+
 ## 0.1.3
 
 Improvements:
