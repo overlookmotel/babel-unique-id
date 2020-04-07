@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.3
+
+Improvements:
+
+* Prefix errors with plugin name
+
+Bug fixes:
+
+* Correct validation error message
+
 ## 0.1.2
 
 Docs:
