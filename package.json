@@ -14,7 +14,7 @@
     "url": "https://github.com/overlookmotel/babel-unique-id/issues"
   },
   "dependencies": {
-    "is-it-type": "^3.1.1",
+    "is-it-type": "^4.0.0",
     "symbols-collection": "^2.0.0",
     "tiny-invariant": "^1.1.0"
   },
